@@ -1,7 +1,5 @@
 # Telco-Churn-analysis
 
-# Telco Churn Analysis
-
 ## Introduction
 
 The objective of this analysis is to identify key patterns and insights related to customer churn at a telecommunications company. By analyzing churn rates across service types, contract types, payment methods, demographic segments, and usage patterns, we aim to pinpoint areas of concern and recommend strategies for customer retention.
